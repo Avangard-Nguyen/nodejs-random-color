@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Echo Hello
-        run: echo "Hi Quynh, you are running job #2"
+        run: echo "Hi Quynh, you are running job 2"
